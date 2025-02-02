@@ -25,7 +25,7 @@ I have implemented multiple JavaScript concepts through small projects and exerc
 ## 🚀 How to Use
 1. Clone this repository:  
    ```
-   git clone https://github.com/yourusername/javascript-learning.git
+   git clone https://github.com/jeel-chheta/JavaScript.git
    ```
 2. Open the files in a code editor (VS Code recommended).
 3. Run scripts using a browser console or Node.js.
